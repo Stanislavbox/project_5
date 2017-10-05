@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+@font-face {
+	font-family: 'CleanvertisingLight';
+	src: url('../fonts/CleanvertisingLight.eot');
+	src: url('../fonts/CleanvertisingLight.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/CleanvertisingLight.woff') format('woff'),
+		 url('../fonts/CleanvertisingLight.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+
+}@font-face {
+	font-family: 'CleanvertisingBlack';
+	src: url('../fonts/CleanvertisingBlack.eot');
+	src: url('../fonts/CleanvertisingBlack.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/CleanvertisingBlack.woff') format('woff'),
+		 url('../fonts/CleanvertisingBlack.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
